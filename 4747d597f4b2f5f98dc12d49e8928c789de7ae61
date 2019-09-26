@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "aec7a151_f70288a1",
+        "filename": "io.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2019-09-26T15:27:21Z",
+      "side": 1,
+      "message": "This line should be commented",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 17
+      },
+      "revId": "4747d597f4b2f5f98dc12d49e8928c789de7ae61",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
