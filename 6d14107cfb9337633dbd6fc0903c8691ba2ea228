@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b030296_82e70e97",
+        "filename": "new.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2019-09-30T08:10:22Z",
+      "side": 1,
+      "message": "Add comment",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 5
+      },
+      "revId": "6d14107cfb9337633dbd6fc0903c8691ba2ea228",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
